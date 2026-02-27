@@ -1,0 +1,8 @@
+{
+  "appId": "com.energenai.tiamat.chat",
+  "appName": "TIAMAT Chat",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": true
+  }
+}

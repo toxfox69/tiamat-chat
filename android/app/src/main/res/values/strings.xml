@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TIAMAT Chat</string>
+    <string name="title_activity_main">TIAMAT Chat</string>
+    <string name="package_name">com.energenai.tiamat.chat</string>
+    <string name="custom_url_scheme">com.energenai.tiamat.chat</string>
+</resources>
